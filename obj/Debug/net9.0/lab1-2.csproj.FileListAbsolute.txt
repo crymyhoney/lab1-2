@@ -1,0 +1,14 @@
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\bin\Debug\net9.0\lab1-2.exe
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\bin\Debug\net9.0\lab1-2.deps.json
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\bin\Debug\net9.0\lab1-2.runtimeconfig.json
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\bin\Debug\net9.0\lab1-2.dll
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\bin\Debug\net9.0\lab1-2.pdb
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\lab1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\lab1-2.AssemblyInfoInputs.cache
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\lab1-2.AssemblyInfo.cs
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\lab1-2.csproj.CoreCompileInputs.cache
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\lab1-2.dll
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\refint\lab1-2.dll
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\lab1-2.pdb
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\lab1-2.genruntimeconfig.cache
+C:\Users\ospc.DESKTOP-D2JH03M.000\Desktop\lab1-2\obj\Debug\net9.0\ref\lab1-2.dll
